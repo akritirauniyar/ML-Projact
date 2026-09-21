@@ -50,8 +50,8 @@ class AkritiRauniyar:
     location = "India 🇮🇳"
 
     education = [
-        "B.Tech CSE — 2021-2026",
-        "MBA — Marketing"
+        "B.Tech CSE — 2021-2025",
+        "MBA -2026-2028"
     ]
 
     skills = [
